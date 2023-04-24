@@ -1,0 +1,54 @@
+.main-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 60vh;
+    width: 100vw;
+    background-image: url('https://www.tourmyindia.com/blog//wp-content/uploads/2020/12/Srinagar-Jammu-Kashmir.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.tag-line {
+    font-size: 3.5rem;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.search-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    height: 5vh;
+    width: 50vw;
+    border-radius: 5px;
+    margin-top: 1rem;
+}
+.search-icon{
+    height: 5vh;
+    width: 5vh;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    color:white;
+}
+.search-input{
+    height: 5vh;
+    width: 30vw;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    padding: 0 1rem;
+    font-size: 1.5rem;
+    color: #333;
+}

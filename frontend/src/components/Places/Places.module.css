@@ -1,0 +1,8 @@
+.main-container{
+    width:100vw;
+    height: 60vh;
+    padding: 0% 20%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
