@@ -9,8 +9,8 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-
-
+    overflow: hidden;
+    box-sizing: border-box;
 }
 
 .tag-line {
@@ -51,4 +51,12 @@
     padding: 0 1rem;
     font-size: 1.5rem;
     color: #333;
+}
+.search-btn{
+    border:none;
+    border-radius: 50%;
+    background-color: #5767aa;
+    color:white;
+    padding: 4px;
+    margin:2px;
 }

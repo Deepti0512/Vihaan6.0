@@ -1,0 +1,10 @@
+{
+    "something":{
+        "dummy item" : "value1",
+        "dummy item2": "value2"
+    },
+    "prevent-error":{
+        "someothervalue":"value3",
+        "idk what i am doing":"go with the flow"
+    }
+}

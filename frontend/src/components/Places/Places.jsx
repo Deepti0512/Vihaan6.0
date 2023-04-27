@@ -16,7 +16,7 @@ const Places = () => {
         <Card image={img3} place="Manali" city="Himachal Pradesh" />
       </div>
     </section>
-  );
-};
+  )
+}
 
-export default Places;
+export default Places
